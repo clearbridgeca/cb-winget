@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+
+PackageIdentifier: Sage.Sage50
+PackageVersion: 31.20.0.0001
+PackageLocale: en-US
+Publisher: Sage
+PackageName: Sage 50
+License: Proprietary License
+Copyright: Copyright (c) 2021 Flexera. All Rights Reserved.
+ShortDescription: InstallScript Setup Launcher Unicode
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0

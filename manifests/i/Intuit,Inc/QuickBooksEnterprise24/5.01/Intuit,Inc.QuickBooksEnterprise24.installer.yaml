@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: Intuit,Inc.QuickBooksEnterprise24
+PackageVersion: "5.01"
+InstallerType: exe
+Installers:
+- InstallerUrl: https://globalsmallbusiness.intuit.com/downloads/CA/QuickBooks/2024/dls/Latest/QuickBooksCAEnterprise24.exe
+  Architecture: x64
+  InstallerSha256: 5FFED074A38FF95B40C913385A178A826E45693A08E510029C23CDFC4398F211
+ManifestType: installer
+ManifestVersion: 1.6.0

@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: Bluebeam,Inc.BluebeamRevu21
+PackageVersion: 21.1.0
+InstallerType: exe
+Installers:
+- InstallerUrl: https://downloads.bluebeam.com/software/downloads/21.1.0/BbRevu21.1.0.exe
+  Architecture: x64
+  InstallerSha256: B9892DB33000DE243F8AFD028BE1CF9775368883195F960D4AAD2916A4EC57DE
+ManifestType: installer
+ManifestVersion: 1.6.0

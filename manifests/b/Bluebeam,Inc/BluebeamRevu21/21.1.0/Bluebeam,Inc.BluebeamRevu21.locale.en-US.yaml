@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+
+PackageIdentifier: Bluebeam,Inc.BluebeamRevu21
+PackageVersion: 21.1.0
+PackageLocale: en-US
+Publisher: Bluebeam, Inc.
+PackageName: Bluebeam Revu 21
+License: Proprietary License
+Copyright: Copyright (c) 2021 Flexera. All Rights Reserved.
+ShortDescription: Setup Suite Launcher
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0

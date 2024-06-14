@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+
+PackageIdentifier: Sage.Sage50
+PackageVersion: 31.20.0.0001
+InstallerType: exe
+Installers:
+- InstallerUrl: https://cdn-dlm.esd.sage.com/Sage50CanadianEdition/21330/SA_20242CP1.exe
+  Architecture: x64
+  InstallerSha256: FD9B6736FF3C5D5B01AF47311576B001DF92DFA3FB46388E99C1D981C8E05EA2
+ManifestType: installer
+ManifestVersion: 1.6.0
